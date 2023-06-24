@@ -1,0 +1,101 @@
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:21.179347",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "ILk0ovzzSOmoZGDDFysC5w",
+  "updated_at": "2020-01-05 13:42:21.179347",
+  "url": "https://api.chucknorris.io/jokes/ILk0ovzzSOmoZGDDFysC5w",
+  "value": "Chuck Norris discovered the evolution of evolutions."
+}
+{
+  "categories": [
+    "explicit"
+  ],
+  "created_at": "2020-01-05 13:42:29.855523",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "eiyfQ7CkQHS7SCoBXuLEzw",
+  "updated_at": "2020-01-05 13:42:29.855523",
+  "url": "https://api.chucknorris.io/jokes/eiyfQ7CkQHS7SCoBXuLEzw",
+  "value": "Chucky has a deep love for Chuck Norris' penis."
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:20.262289",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "bx-nG3SCSOGmwcKWQpl0Jw",
+  "updated_at": "2020-01-05 13:42:20.262289",
+  "url": "https://api.chucknorris.io/jokes/bx-nG3SCSOGmwcKWQpl0Jw",
+  "value": "After meals, Chuck Norris picks his teeth with a pneumatic drill"
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:23.240175",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "Bq5e3--oR2eZl1irhkdFaw",
+  "updated_at": "2020-01-05 13:42:23.240175",
+  "url": "https://api.chucknorris.io/jokes/Bq5e3--oR2eZl1irhkdFaw",
+  "value": "Everybody Loves Raymond, except Chuck Norris."
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:20.568859",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "zSuDyeBLSg6nqCaIV_dmJQ",
+  "updated_at": "2020-01-05 13:42:20.568859",
+  "url": "https://api.chucknorris.io/jokes/zSuDyeBLSg6nqCaIV_dmJQ",
+  "value": "Chuck Norris is my godfather. As he is yours."
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:21.455187",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "qvkOfhGrRL6JsOqxxlVE7A",
+  "updated_at": "2020-01-05 13:42:21.455187",
+  "url": "https://api.chucknorris.io/jokes/qvkOfhGrRL6JsOqxxlVE7A",
+  "value": "Its always dark when Chuck Norris wakes up cause the sun dares not glare at Chuck Norris"
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:25.628594",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "1y1LS4abTD6oRtbQSeuoWA",
+  "updated_at": "2020-01-05 13:42:25.628594",
+  "url": "https://api.chucknorris.io/jokes/1y1LS4abTD6oRtbQSeuoWA",
+  "value": "Chuck Norris once won a staredown over a walkie talkie."
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:28.143137",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "pVQqvgmbSRmPxOjPNfXIAQ",
+  "updated_at": "2020-01-05 13:42:28.143137",
+  "url": "https://api.chucknorris.io/jokes/pVQqvgmbSRmPxOjPNfXIAQ",
+  "value": "Chuck Norris: Chilling Hulking Undeniable Cunning Killing Not nice Order Ripped Righteous Invincible Sensational"
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:22.089095",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "cQasBKoKRT2alfzfnJ87Lw",
+  "updated_at": "2020-01-05 13:42:22.089095",
+  "url": "https://api.chucknorris.io/jokes/cQasBKoKRT2alfzfnJ87Lw",
+  "value": "Chuck Norris fired Donald Trump...with a flamethrower."
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:28.984661",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "auexuHHWRTaBu5CoabrLGA",
+  "updated_at": "2020-01-05 13:42:28.984661",
+  "url": "https://api.chucknorris.io/jokes/auexuHHWRTaBu5CoabrLGA",
+  "value": "Lactose is Chuck Norris intolerant."
+}
+{
+  "categories": [],
+  "created_at": "2020-01-05 13:42:28.143137",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "GAKCKp3BRg2flHOHR7CuOA",
+  "updated_at": "2020-01-05 13:42:28.143137",
+  "url": "https://api.chucknorris.io/jokes/GAKCKp3BRg2flHOHR7CuOA",
+  "value": "In the late 1800's Chuck Norris' nickname was \"Polio\". And the reason for that nickname was not sloely because he has iron lungs."
+}
